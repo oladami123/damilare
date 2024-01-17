@@ -1,0 +1,18 @@
+.do{
+    background-image: url('https://static.wixstatic.com/media/0784b1_deb59b4f202148bcbac6acf28e46fa26~mv2.png/v1/fill/w_1217,h_766,al_c,q_90,enc_auto/0784b1_deb59b4f202148bcbac6acf28e46fa26~mv2.png');
+    margin-top: 200px;
+}
+.do h1{
+    padding-left: 30px;
+}
+.do p{
+    padding-left: 30px;
+}
+ button{
+    padding-left: 30px;
+    width: 120px;
+    height: 2rem;
+    border-radius: 16px;
+    background-color: orangered;
+    margin-right: ;
+}
